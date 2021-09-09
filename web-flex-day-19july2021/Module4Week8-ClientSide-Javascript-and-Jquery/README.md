@@ -1,4 +1,4 @@
-# W4D2 - Client Side JavaScript & jQuery
+# W8L2 - an intro to Client Side JavaScript & jQuery
 
 ### Topics
 
@@ -43,6 +43,8 @@
 ![DOM example](images/dom-example.png)
 
 ### Useful Browser Objects
+
+![DOM example](images/dom-example.png)
 - **`window` object**
   - Represents the window that holds the DOM object
   - Each tab in a browser is a _window_ with its own `window` object
