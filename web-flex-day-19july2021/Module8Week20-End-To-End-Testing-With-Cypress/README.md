@@ -2,7 +2,7 @@
 
 __Overview__
 
-Yesterday we looked into Unit testing.
+Previously we looked into Unit testing.
 
 `Unit Testing` -  the idea of testing single peice of code in isolation. We were writting tests for components and functions alike, and everything was isolated.
 
